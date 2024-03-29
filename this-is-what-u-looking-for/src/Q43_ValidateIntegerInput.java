@@ -31,6 +31,7 @@ public class Q43_ValidateIntegerInput {
                 scanner.next();
             }
         }
+        scanner.close();
 
         System.out.printf("input is : %d %n",num);
 
